@@ -20,7 +20,3 @@ def determinant(matrix)
     return a
   end
 end
-
-m2 = [ [2,5,3], [1,-2,-1], [1, 3, 4]]
-
-p determinant(m2)
